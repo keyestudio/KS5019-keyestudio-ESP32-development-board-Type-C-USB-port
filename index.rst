@@ -1,10 +1,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio docs
+   :caption: KS5019-keyestudio ESP32 development board Type-C USB port
 
    README.md
-   docs/keyestudio/index
+   docs/index
 
 
 
